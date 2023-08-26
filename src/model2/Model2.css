@@ -80,3 +80,12 @@
     }
     
 }
+
+.paragraph{
+    text-align: center;
+}
+
+#messageButton{
+    align-items: center;
+    margin-left: 2px;
+}

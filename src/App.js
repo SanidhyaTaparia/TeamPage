@@ -12,9 +12,9 @@ function App() {
   return (
     <div className="App">
       <Header/>
-      {/* <Model1 />
-      <Model2 /> */}
+      <Model1 />
       <Model3 />
+      <Model2 /> 
       {/* <Model4 />
       <Model5 /> */}
       <Footer />
